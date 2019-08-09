@@ -5,7 +5,7 @@
 # Author : Boychongzen aka Xroot
 
 # Tampilan SocksDroid 3 Party
-# Eksekusi XL Paket Exra Kuota 30GB
+# Eksekusi XL Paket Extra Kuota 30GB Rp.11.900 1Bulan
 ![be](https://raw.githubusercontent.com/boychongzen18/SocksDroid/master/socksdroid.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/SocksDroid/master/popon.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/SocksDroid/master/uler.jpg)
